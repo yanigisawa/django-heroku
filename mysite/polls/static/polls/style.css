@@ -1,0 +1,15 @@
+li a {
+    color: green;
+}
+
+body {
+    background-color: #d5f5ef;
+    background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    /* background: white url("images/axiom-pattern.png") repeat; */
+    /* background-size:     cover; */
+    /* background-repeat:   no-repeat; */
+    /* background-position: center center; */
+}
+
